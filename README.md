@@ -1,4 +1,5 @@
 # Climate-Change-and-Soil-Health-XAI
+[![DOI](https://zenodo.org/badge/1190380334.svg)](https://doi.org/10.5281/zenodo.19201956)
 
 
 ![Flowchart](flowchart_make.png)
